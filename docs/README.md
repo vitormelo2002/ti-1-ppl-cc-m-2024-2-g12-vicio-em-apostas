@@ -3,7 +3,7 @@
 Informações básicas do projeto.
 
 * **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Repositório GitHub:** [[LINK PARA O REPOSITÓRIO NO GITHUB]] (https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-2024-2-g12-vicio-em-apostas/edit/master/docs/README.md)
 * **Membros da equipe:**
 
   * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
