@@ -5,6 +5,7 @@ Informações básicas do projeto.
 * **Projeto:** [NOME DO PROJETO]
 * **Repositório GitHub:** [[LINK PARA O REPOSITÓRIO NO GITHUB]] (https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-2024-2-g12-vicio-em-apostas/edit/master/docs/README.md)
 * **Membros da equipe:**
+* Lucas Gabriel
 
   * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
   * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
@@ -142,7 +143,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 ##### Proposta para Persona XPTO ⚠️ EXEMPLO ⚠️
 
 ![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
-
+k
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > O mapa da proposta de valor é uma ferramenta que nos ajuda a definir qual tipo de produto ou serviço melhor atende às personas definidas anteriormente.
