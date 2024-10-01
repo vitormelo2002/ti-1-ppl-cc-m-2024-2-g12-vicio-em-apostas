@@ -7,9 +7,7 @@ Informações básicas do projeto.
 * **Membros da equipe:**
 * Lucas Gabriel
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+
 
 A documentação do projeto é estruturada da seguinte forma:
 
